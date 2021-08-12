@@ -8,5 +8,5 @@ import org.springframework.context.annotation.Configuration;
 @ComponentScan(basePackages = "com.example.*")
 @MapperScan(basePackages = "com.example.mapper")
 public class ApplicationConfig{
-    
+     
 }
